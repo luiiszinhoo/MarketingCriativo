@@ -1,7 +1,7 @@
 # MarketingCriativo
 Projeto criado a partir de uma videoaula e aprimorado por mim para melhorar minhas habilidades em CSS/HTML e responsividade.
 
-Live preview:<a href="marketingdigitalprojeto.000webhostapp.com" targe="_blank">Clique aqui!</a>
+Live preview:<a href="http://marketingdigitalprojeto.000webhostapp.com" target="_blank"> Clique aqui!</a>
 
 <br><br>
 
